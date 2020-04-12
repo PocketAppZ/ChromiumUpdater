@@ -5,7 +5,7 @@
       height="128"
       width="128">
       
- ChromiumUpdater -  Get the lates raw build of Chromium for Windows x64!
+ ChromiumUpdater
  
 </h1>
 	
